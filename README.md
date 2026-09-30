@@ -1,4 +1,6 @@
-# Enterprise Multi-Agent Competitor Intelligence System
+# Enterprise_Competitor_Intelligence
+
+## Enterprise Multi-Agent Competitor Intelligence System
 
 An autonomous, multi-agent AI research platform that accepts natural-language competitor and market queries, decomposes them into explicit research plans, gathers multi-source evidence across Web, Financial, and News providers in parallel, synthesizes a grounded 13-section executive report, verifies atomic claims against evidence, benchmarks hallucination risk, executes a self-correction loop, generates a boardroom-ready ReportLab PDF, and provides a multi-tab Streamlit dashboard.
 
