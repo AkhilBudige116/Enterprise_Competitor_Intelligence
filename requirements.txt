@@ -1,0 +1,33 @@
+# Core Orchestration & LLM
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-google-genai>=2.0.0
+langchain-openai>=0.2.0
+langchain-groq>=0.2.0
+langgraph>=0.2.20
+
+# Search & Data Providers
+tavily-python>=0.5.0
+yfinance>=0.2.40
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Evaluation & Metrics
+ragas>=0.2.0
+pydantic>=2.7.0
+pydantic-settings>=2.2.0
+
+# Reporting & PDF Generation
+reportlab>=4.1.0
+pandas>=2.2.0
+matplotlib>=3.8.0
+
+# Web Application
+streamlit>=1.35.0
+
+# Utilities & Testing
+python-dotenv>=1.0.1
+tenacity>=8.3.0
+pytest>=8.0.0
+pytest-asyncio>=0.23.0
